@@ -1,2 +1,2 @@
-# Readme.txt
+# readme.txt
 My first repository 
